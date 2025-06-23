@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827918365951",
+    "project_id": "toplanti-56f58",
+    "storage_bucket": "toplanti-56f58.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827918365951:android:bc99b0496752e932e9c8ca",
+        "android_client_info": {
+          "package_name": "com.example.proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZC8p_QcLGP0_O7uUfjhokwdlRGPeIv7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
